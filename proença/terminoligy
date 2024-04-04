@@ -1,0 +1,10 @@
+See what exacly is a tail recursive function
+
+Strict and lazy
+
+Conjunto: nao interessa a ordem, e nao tem duplicados
+Listas: interessa a ordem, pode ter duplicados
+
+val -> maintains Imutable -> Imutable | mutable -> mutable
+var -> converts a imutable -> mutable | mutable -> mutable
+
