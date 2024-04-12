@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/cp2324_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson1/Exercices$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson1/Exercices$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson1/HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson1/HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson1/Exercices.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson1/Exercices.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson1/HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson1/HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson1/Exercices$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson1/Exercices$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson1/HelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson1/HelloWorld$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
