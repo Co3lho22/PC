@@ -1,4 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson1/Permutations.scala:19:29: forward reference extends over definition of variable x[0m
-[0m[[0m[31merror[0m] [0m[0m      println(s"Distinct: ${x.distinct}")[0m
-[0m[[0m[31merror[0m] [0m[0m                            ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/Exercise1.scala:17:13: A does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    (gja.get(), gjb.get())[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/Exercise1.scala:17:24: B does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    (gja.get(), gjb.get())[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
