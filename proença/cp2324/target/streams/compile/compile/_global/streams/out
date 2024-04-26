@@ -1,7 +1,11 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/Exercise1.scala:17:13: A does not take parameters[0m
-[0m[[0m[31merror[0m] [0m[0m    (gja.get(), gjb.get())[0m
-[0m[[0m[31merror[0m] [0m[0m            ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/Exercise1.scala:17:24: B does not take parameters[0m
-[0m[[0m[31merror[0m] [0m[0m    (gja.get(), gjb.get())[0m
-[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/Exercise4.scala:29:5: missing argument list for method thread in package lablessons[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `thread _` or `thread(_,_)` instead of `thread`.[0m
+[0m[[0m[31merror[0m] [0m[0m    thread.sleep(1000)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/Exercise4.scala:44:5: missing argument list for method thread in package lablessons[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `thread _` or `thread(_,_)` instead of `thread`.[0m
+[0m[[0m[31merror[0m] [0m[0m    thread.sleep(1000)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
 [0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
