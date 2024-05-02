@@ -14,17 +14,40 @@ class SyncVar[T] {
     }
   }
 
-  def put(x: T): Unit = {
-    obj match {
-      case Some(_) => throw new RuntimeException("The object is not empty.")
-      case None => obj = Some(x)
+  def getWait(): T = {
+    this.synchronized {
+      while (isEmpty()) {
+        this.wait()
+      }
+      val obj_value = get()
+      this.notify()
+      obj_value
     }
   }
 
+  def putWait(x: T): Unit = {
+    this.synchronized {
+      while (nonEmpty()) {
+        this.wait()
+      }
+      put(x)
+      this.notify()
+    }
+  }
+
+  def put(x: T): Unit = {
+      obj match {
+        case Some(_) => throw new RuntimeException("The object is not empty.")
+        case None => obj = Some(x)
+    }
+  }
+
+  // Exercise4
   def isEmpty(): Boolean = {
     obj == None
   }
 
+  // Exercise4
   def nonEmpty(): Boolean = {
     obj != None
   }

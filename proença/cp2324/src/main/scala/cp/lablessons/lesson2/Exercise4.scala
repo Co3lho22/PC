@@ -29,8 +29,9 @@ object Exercise4 extends App {
         }
         log(s"consumer_value: $consumer_value")
       }
-
     }
   }
+  producer.join()
+  consumer.join()
 }
 
