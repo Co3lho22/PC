@@ -14,6 +14,7 @@ class SyncVar[T] {
     }
   }
 
+
   def getWait(): T = {
     this.synchronized {
       while (isEmpty()) {

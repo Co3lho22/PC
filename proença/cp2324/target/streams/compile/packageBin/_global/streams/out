@@ -12,6 +12,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise3$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/SyncQueue.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/SyncQueue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise7$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise7$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise5$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise5$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/SyncVar.class[0m
@@ -28,10 +30,18 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise2$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/ThreadsProtectedUid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/ThreadsProtectedUid.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise5$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise5$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/ThreadsProtectedUid$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/ThreadsProtectedUid$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise7.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise4$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise4$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise7$Account.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise7$Account.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise3$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise3$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise5.class[0m
@@ -42,6 +52,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise4$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise6_test.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise6_test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise7$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise7$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise6_test$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/dcoelho/github/fcup/PC/proença/cp2324/target/scala-2.12/classes/cp/lablessons/lesson2/Exercise6_test$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	cp/lablessons/lesson2/Exercise3.class[0m
