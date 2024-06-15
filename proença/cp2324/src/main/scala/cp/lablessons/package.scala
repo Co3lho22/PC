@@ -1,5 +1,7 @@
 package cp
 
+import scala.concurrent._
+
 package object lablessons {
   def log(msg: String): Unit = {
     val threadType = if (Thread.currentThread().isDaemon) "Daemon" else "User"
@@ -16,5 +18,10 @@ package object lablessons {
     t.start()
     t
   }
+
+  def execute(body: =>Unit) =
+    ExecutionContext.global.execute (
+      new Runnable{ def run() = body }
+    )
 }
 

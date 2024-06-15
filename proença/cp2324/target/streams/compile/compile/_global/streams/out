@@ -1,10 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/Exercise7.scala:29:7: value add is not a member of scala.collection.immutable.Set[cp.lablessons.lesson2.Exercise7.Account][0m
-[0m[[0m[31merror[0m] [0m[0m  set.add(a1)[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/Exercise7.scala:30:7: value add is not a member of scala.collection.immutable.Set[cp.lablessons.lesson2.Exercise7.Account][0m
-[0m[[0m[31merror[0m] [0m[0m  set.add(a2)[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/Exercise7.scala:31:7: value add is not a member of scala.collection.immutable.Set[cp.lablessons.lesson2.Exercise7.Account][0m
-[0m[[0m[31merror[0m] [0m[0m  set.add(a3)[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
-[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC-2024/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/ex8/PriorityTaskPool.scala:35:20: not found: value True[0m
+[0m[[0m[31merror[0m] [0m[0m  worker.setDaemon(True)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
