@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/dcoelho/github/fcup/PC-2024/PC/proença/cp2324/src/main/scala/cp/lablessons/lesson2/ex10/Ex10.scala:5:38: not enough arguments for constructor PriorityTaskPool: (num_workers: Int, important: Int)cp.lablessons.lesson2.ex10.PriorityTaskPool.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter important.[0m
+[0m[[0m[31merror[0m] [0m[0m  var tasks_pool: PriorityTaskPool = new PriorityTaskPool(4)[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
