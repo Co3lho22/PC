@@ -1,17 +1,14 @@
 [0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/dcoelho/github/fcup/PC-2024/PC/proença/cp2324/target/scala-2.12/classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	PriorityTaskPool$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Task.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Task$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	PriorityTaskPool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	PriorityTaskPool$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Task.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Task$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	PriorityTaskPool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	PriorityTaskPool$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Task.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Task$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	PriorityTaskPool.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/dcoelho/github/fcup/PC-2024/PC/proença/cp2324/target/scala-2.12/classes.bak[0m

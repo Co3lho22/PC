@@ -1,6 +1,6 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(90cf94e4-6d44-416b-85f9-c422f0960a3a), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(808be81c-ebd7-48a0-96ac-6e2499fa5f36), Some(CommandSource(console0)))[0m
 [0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
 [0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
 [0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/dcoelho/github/fcup/PC-2024/PC/proença/cp2324/target/scala-2.12/classes ...[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 3 s, completed Jun 15, 2024, 10:17:01 PM[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 7 s, completed Jun 16, 2024, 3:56:59 PM[0m
 [0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
